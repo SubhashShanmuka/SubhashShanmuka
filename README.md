@@ -1,5 +1,5 @@
 # About Me:
-👨‍💼 I’m currently a master's in supply chain management student @ UW-Madison<br>🤝 Check out my projects related to data analytics, data visualization, inventory modeling, and text analysis.<br>🌱 I’m currently learning ML techniques, to take interesting photographs, and Spanish!<br>⚡ Also, My name is etched on the Europa Clipper probe to study the Europa moon of Jupiter <br>💬 praktheswara@wisc.edu
+👨‍💼 I’m currently a master's in supply chain management student @ UW-Madison<br>🤝 Check out my projects related to data analytics, data visualization, inventory modeling, and text analysis.<br>🌱 I’m currently learning ML and Data analytics techniques, to take interesting photographs, and Spanish!<br>⚡ Also, My name is etched on the Europa Clipper probe to study the Europa moon of Jupiter <br>💬 praktheswara@wisc.edu
 
 
 ## 🌐 Socials:
